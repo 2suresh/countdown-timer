@@ -1,4 +1,4 @@
-# Project Title
+# Title
 
 Simple Countdown Timer using ReactJS
 
